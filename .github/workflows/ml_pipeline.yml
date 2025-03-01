@@ -1,4 +1,4 @@
-name: ML Pipeline
+name: Arti's Pipeline
 
 on:
   push:
